@@ -1,7 +1,7 @@
 # EHLWSN-EA
 
 ### I. Code description
-The code consists of two parts: energy harvesting and optimization and energy distribution algorithm:
+The code consists of two parts: energy harvesting and energy allocation algorithm:
 #### Energy allocation 
 * **(1) FTF**: Fast Time Fair Energy Allocation algorithm. "Improving Power Stability of Energy Harvesting Devices With Edge Computing-Assisted Time Fair Energy Allocation," in IEEE Transactions on Green Communications and Networking, vol. 5 , no. 1, pp. 540-551, March 2021
 
